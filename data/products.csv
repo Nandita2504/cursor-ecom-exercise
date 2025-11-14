@@ -1,0 +1,51 @@
+product_id,sku,name,category,price,in_stock
+1001,SKU-1001,Bluetooth Speaker,Electronics,164.18,True
+1002,SKU-1002,Ceramic Vase,Home,188.49,True
+1003,SKU-1003,Camping Lantern,Outdoors,65.12,True
+1004,SKU-1004,Face Serum,Beauty,173.05,True
+1005,SKU-1005,Puzzle Kit,Toys,152.54,True
+1006,SKU-1006,Running Shoes,Clothing,19.09,True
+1007,SKU-1007,Chef Knife,Kitchen,67.37,True
+1008,SKU-1008,Thriller Novel,Books,145.58,False
+1009,SKU-1009,Yoga Mat,Fitness,64.46,True
+1010,SKU-1010,Garden Hose,Garden,204.64,True
+1011,SKU-1011,Wireless Mouse,Electronics,192.60,True
+1012,SKU-1012,Wall Clock,Home,178.16,True
+1013,SKU-1013,Hammock,Outdoors,78.13,True
+1014,SKU-1014,Hair Dryer,Beauty,239.82,True
+1015,SKU-1015,Board Game,Toys,36.33,False
+1016,SKU-1016,Denim Jacket,Clothing,35.02,True
+1017,SKU-1017,Espresso Maker,Kitchen,155.69,True
+1018,SKU-1018,Cookbook,Books,185.68,True
+1019,SKU-1019,Resistance Bands,Fitness,243.60,False
+1020,SKU-1020,Planter Set,Garden,30.75,True
+1021,SKU-1021,Noise-Canceling Headphones,Electronics,209.40,True
+1022,SKU-1022,Floor Lamp,Home,149.41,True
+1023,SKU-1023,Travel Backpack,Outdoors,22.91,True
+1024,SKU-1024,Lipstick Duo,Beauty,195.99,True
+1025,SKU-1025,RC Car,Toys,215.57,True
+1026,SKU-1026,Winter Coat,Clothing,102.47,False
+1027,SKU-1027,Air Fryer,Kitchen,163.29,True
+1028,SKU-1028,Historical Fiction,Books,50.71,True
+1029,SKU-1029,Foam Roller,Fitness,61.86,True
+1030,SKU-1030,Pruning Shears,Garden,179.03,True
+1031,SKU-1031,Smartwatch,Electronics,156.97,True
+1032,SKU-1032,Throw Blanket,Home,139.13,True
+1033,SKU-1033,Portable Grill,Outdoors,50.89,False
+1034,SKU-1034,Moisturizer,Beauty,76.25,True
+1035,SKU-1035,STEM Kit,Toys,174.94,True
+1036,SKU-1036,Hiking Boots,Clothing,66.51,True
+1037,SKU-1037,Blender,Kitchen,203.60,False
+1038,SKU-1038,Mystery Series,Books,75.72,True
+1039,SKU-1039,Jump Rope,Fitness,229.33,True
+1040,SKU-1040,Seed Starter,Garden,62.61,False
+1041,SKU-1041,Gaming Keyboard,Electronics,106.16,False
+1042,SKU-1042,Table Runner,Home,46.00,True
+1043,SKU-1043,Kayak Paddle,Outdoors,70.70,True
+1044,SKU-1044,Hair Mask,Beauty,189.79,False
+1045,SKU-1045,Drone,Toys,225.68,False
+1046,SKU-1046,Rain Jacket,Clothing,98.16,True
+1047,SKU-1047,Slow Cooker,Kitchen,133.27,True
+1048,SKU-1048,Fantasy Saga,Books,191.88,True
+1049,SKU-1049,Kettlebell,Fitness,48.38,True
+1050,SKU-1050,Outdoor Lights,Garden,200.51,False

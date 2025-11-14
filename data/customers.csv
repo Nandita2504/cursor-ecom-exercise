@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,signup_date,city,country
+2001,Ava,Johnson,ava.johnson@example.com,2023-01-05,New York,USA
+2002,Liam,Smith,liam.smith@example.com,2023-01-08,Los Angeles,Canada
+2003,Sophia,Williams,sophia.williams@example.com,2023-01-11,Chicago,UK
+2004,Noah,Brown,noah.brown@example.com,2023-01-14,Houston,Germany
+2005,Isabella,Jones,isabella.jones@example.com,2023-01-17,Phoenix,Australia
+2006,Mason,Garcia,mason.garcia@example.com,2023-01-20,Seattle,USA
+2007,Mia,Miller,mia.miller@example.com,2023-01-23,Austin,Canada
+2008,Ethan,Davis,ethan.davis@example.com,2023-01-26,Boston,UK
+2009,Charlotte,Rodriguez,charlotte.rodriguez@example.com,2023-01-29,Denver,Germany
+2010,Logan,Martinez,logan.martinez@example.com,2023-02-01,Miami,Australia
+2011,Amelia,Hernandez,amelia.hernandez@example.com,2023-02-04,New York,USA
+2012,Lucas,Lopez,lucas.lopez@example.com,2023-02-07,Los Angeles,Canada
+2013,Harper,Gonzalez,harper.gonzalez@example.com,2023-02-10,Chicago,UK
+2014,Jackson,Wilson,jackson.wilson@example.com,2023-02-13,Houston,Germany
+2015,Evelyn,Anderson,evelyn.anderson@example.com,2023-02-16,Phoenix,Australia
+2016,Aiden,Thomas,aiden.thomas@example.com,2023-02-19,Seattle,USA
+2017,Abigail,Taylor,abigail.taylor@example.com,2023-02-22,Austin,Canada
+2018,Elijah,Moore,elijah.moore@example.com,2023-02-25,Boston,UK
+2019,Emily,Jackson,emily.jackson@example.com,2023-02-28,Denver,Germany
+2020,Oliver,Martin,oliver.martin@example.com,2023-03-03,Miami,Australia
+2021,Aria,Lee,aria.lee@example.com,2023-03-06,New York,USA
+2022,Carter,Perez,carter.perez@example.com,2023-03-09,Los Angeles,Canada
+2023,Scarlett,Thompson,scarlett.thompson@example.com,2023-03-12,Chicago,UK
+2024,James,White,james.white@example.com,2023-03-15,Houston,Germany
+2025,Victoria,Harris,victoria.harris@example.com,2023-03-18,Phoenix,Australia
+2026,Wyatt,Sanchez,wyatt.sanchez@example.com,2023-03-21,Seattle,USA
+2027,Grace,Clark,grace.clark@example.com,2023-03-24,Austin,Canada
+2028,Sebastian,Ramirez,sebastian.ramirez@example.com,2023-03-27,Boston,UK
+2029,Chloe,Lewis,chloe.lewis@example.com,2023-03-30,Denver,Germany
+2030,Henry,Robinson,henry.robinson@example.com,2023-04-02,Miami,Australia
+2031,Layla,Walker,layla.walker@example.com,2023-04-05,New York,USA
+2032,Owen,Young,owen.young@example.com,2023-04-08,Los Angeles,Canada
+2033,Zoe,Allen,zoe.allen@example.com,2023-04-11,Chicago,UK
+2034,Gabriel,King,gabriel.king@example.com,2023-04-14,Houston,Germany
+2035,Penelope,Wright,penelope.wright@example.com,2023-04-17,Phoenix,Australia
+2036,Caleb,Scott,caleb.scott@example.com,2023-04-20,Seattle,USA
+2037,Lily,Torres,lily.torres@example.com,2023-04-23,Austin,Canada
+2038,Jayden,Nguyen,jayden.nguyen@example.com,2023-04-26,Boston,UK
+2039,Hannah,Hill,hannah.hill@example.com,2023-04-29,Denver,Germany
+2040,Julian,Flores,julian.flores@example.com,2023-05-02,Miami,Australia
+2041,Nora,Green,nora.green@example.com,2023-05-05,New York,USA
+2042,Levi,Adams,levi.adams@example.com,2023-05-08,Los Angeles,Canada
+2043,Avery,Nelson,avery.nelson@example.com,2023-05-11,Chicago,UK
+2044,Isaac,Baker,isaac.baker@example.com,2023-05-14,Houston,Germany
+2045,Ella,Hall,ella.hall@example.com,2023-05-17,Phoenix,Australia
+2046,Mateo,Rivera,mateo.rivera@example.com,2023-05-20,Seattle,USA
+2047,Aurora,Campbell,aurora.campbell@example.com,2023-05-23,Austin,Canada
+2048,David,Mitchell,david.mitchell@example.com,2023-05-26,Boston,UK
+2049,Savannah,Carter,savannah.carter@example.com,2023-05-29,Denver,Germany
+2050,Joseph,Roberts,joseph.roberts@example.com,2023-06-01,Miami,Australia
