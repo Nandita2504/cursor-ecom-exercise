@@ -118,6 +118,7 @@ Return only the SQL.
 
 ---
 ### Output
+ ## Order Summary 
 ![Order Summary Screenshot](<Output 1.png>)
 ![Top Customers Screenshot](<Output 2.png>)
 
