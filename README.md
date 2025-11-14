@@ -117,9 +117,9 @@ Return only the SQL.
 `python src/run_query.py`
 
 ---
-## Output
- ![Order Summary Screenshot](Output 1.png)
- ![Top Customers Screenshot](Output 2.png)
+### Output
+![Order Summary Screenshot](<Output 1.png>)
+![Top Customers Screenshot](<Output 2.png>)
 
 
 
