@@ -1,0 +1,51 @@
+order_id,order_date,customer_name,total_amount,number_of_items,distinct_products,top_product_name
+3001,2024-02-01,Ava Johnson,164.18,1,1,Bluetooth Speaker
+3002,2024-02-02,Liam Smith,753.96,4,1,Ceramic Vase
+3003,2024-02-03,Sophia Williams,260.48,4,1,Camping Lantern
+3004,2024-02-04,Noah Brown,519.15,3,1,Face Serum
+3005,2024-02-05,Isabella Jones,152.54,1,1,Puzzle Kit
+3006,2024-02-06,Mason Garcia,19.09,1,1,Running Shoes
+3007,2024-02-07,Mia Miller,202.11,3,1,Chef Knife
+3008,2024-02-08,Ethan Davis,436.74,3,1,Thriller Novel
+3009,2024-02-09,Charlotte Rodriguez,193.38,3,1,Yoga Mat
+3010,2024-02-10,Logan Martinez,409.28,2,1,Garden Hose
+3011,2024-02-11,Amelia Hernandez,192.6,1,1,Wireless Mouse
+3012,2024-02-12,Lucas Lopez,534.48,3,1,Wall Clock
+3013,2024-02-13,Harper Gonzalez,156.26,2,1,Hammock
+3014,2024-02-14,Jackson Wilson,239.82,1,1,Hair Dryer
+3015,2024-02-15,Evelyn Anderson,108.99,3,1,Board Game
+3016,2024-02-16,Aiden Thomas,70.04,2,1,Denim Jacket
+3017,2024-02-17,Abigail Taylor,467.07,3,1,Espresso Maker
+3018,2024-02-18,Elijah Moore,185.68,1,1,Cookbook
+3019,2024-02-19,Emily Jackson,730.8,3,1,Resistance Bands
+3020,2024-02-20,Oliver Martin,30.75,1,1,Planter Set
+3021,2024-02-21,Aria Lee,628.2,3,1,Noise-Canceling Headphones
+3022,2024-02-22,Carter Perez,298.82,2,1,Floor Lamp
+3023,2024-02-23,Scarlett Thompson,45.82,2,1,Travel Backpack
+3024,2024-02-24,James White,195.99,1,1,Lipstick Duo
+3025,2024-02-25,Victoria Harris,862.28,4,1,RC Car
+3026,2024-02-26,Wyatt Sanchez,204.94,2,1,Winter Coat
+3027,2024-02-27,Grace Clark,653.16,4,1,Air Fryer
+3028,2024-02-28,Sebastian Ramirez,101.42,2,1,Historical Fiction
+3029,2024-02-29,Chloe Lewis,247.44,4,1,Foam Roller
+3030,2024-03-01,Henry Robinson,358.06,2,1,Pruning Shears
+3031,2024-03-02,Layla Walker,470.91,3,1,Smartwatch
+3032,2024-03-03,Owen Young,417.39,3,1,Throw Blanket
+3033,2024-03-04,Zoe Allen,203.56,4,1,Portable Grill
+3034,2024-03-05,Gabriel King,152.5,2,1,Moisturizer
+3035,2024-03-06,Penelope Wright,174.94,1,1,STEM Kit
+3036,2024-03-07,Caleb Scott,66.51,1,1,Hiking Boots
+3037,2024-03-08,Lily Torres,407.2,2,1,Blender
+3038,2024-03-09,Jayden Nguyen,151.44,2,1,Mystery Series
+3039,2024-03-10,Hannah Hill,229.33,1,1,Jump Rope
+3040,2024-03-11,Julian Flores,62.61,1,1,Seed Starter
+3041,2024-03-12,Nora Green,106.16,1,1,Gaming Keyboard
+3042,2024-03-13,Levi Adams,138.0,3,1,Table Runner
+3043,2024-03-14,Avery Nelson,141.4,2,1,Kayak Paddle
+3044,2024-03-15,Isaac Baker,759.16,4,1,Hair Mask
+3045,2024-03-16,Ella Hall,451.36,2,1,Drone
+3046,2024-03-17,Mateo Rivera,392.64,4,1,Rain Jacket
+3047,2024-03-18,Aurora Campbell,533.08,4,1,Slow Cooker
+3048,2024-03-19,David Mitchell,383.76,2,1,Fantasy Saga
+3049,2024-03-20,Savannah Carter,48.38,1,1,Kettlebell
+3050,2024-03-21,Joseph Roberts,802.04,4,1,Outdoor Lights
